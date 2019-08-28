@@ -1,0 +1,2 @@
+# structure-tutorial
+STRUCTURE tutorial
